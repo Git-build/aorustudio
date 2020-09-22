@@ -1,3 +1,3 @@
-# aoru.com.cn Setting 
+# aorustudio
 
 
