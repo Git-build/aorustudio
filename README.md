@@ -1,4 +1,6 @@
-
+<link href="favicon.ico" mce_href="favicon.ico" rel="bookmark" type="image/x-icon" /> 
+<link href="favicon.ico" mce_href="favicon.ico" rel="icon" type="image/x-icon" /> 
+<link href="favicon.ico" mce_href="favicon.ico" rel="favicon3hortcut icon" type="image/x-icon" />
 <style>
     body {
         text-align: center; /* 水平居中 */
