@@ -1,6 +1,8 @@
+<head>
 <link href="bdm.ico" mce_href="bdm.ico" rel="bookmark" type="image/x-icon" /> 
 <link href="bdm.ico" mce_href="bdm.ico" rel="icon" type="image/x-icon" /> 
 <link href="bdm.ico" mce_href="bdm.ico" rel="favicon3hortcut icon" type="image/x-icon" />
+    <head/>
 <style>
     body {
         text-align: center; /* 水平居中 */
